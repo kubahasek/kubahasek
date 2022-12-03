@@ -7,5 +7,5 @@ These days, I usually code in TypeScript or JavaScript!
 
 ## Stats
 
-[![Jakub's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kubahasek&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kubahasek&show_icons=true&theme=onedark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Jakub's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kubahasek&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kubahasek&show_icons=true&theme=transparent&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
