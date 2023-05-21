@@ -4,8 +4,6 @@ Hi 👋 My name is Jakub!
 Web Developer and UI Designer
 -----------------------------
 
-I am currently a student of the 4th year of High School and have been learning web development for over 3 years now.
-
 * 🌍  I'm based in the Czech Republic
 * 🧠  I'm learning Remix
 * 🤝  I'm open to collaborating on interesting web dev projects!
